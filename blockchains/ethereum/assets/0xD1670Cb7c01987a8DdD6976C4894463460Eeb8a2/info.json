@@ -1,23 +1,25 @@
 {
     "name": "DMM: USDK",
     "website": "https://defimoneymarket.com",
-    "short_description": "mToken wrapper for USDK",
+    "description": "mToken wrapper for USDK",
     "explorer": "https://etherscan.io/token/0xD1670Cb7c01987a8DdD6976C4894463460Eeb8a2",
-    "socials": [
+    "type": "ERC20",
+    "symbol": "mUSDK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD1670Cb7c01987a8DdD6976C4894463460Eeb8a2",
+    "links": [
         {
-            "name": "Twitter",
-            "url": "https://twitter.com/DMMDAO",
-            "handle": "DMMDAO"
+            "name": "x",
+            "url": "https://x.com/DMMDAO"
         },
         {
-            "name": "Reddit",
-            "url": "https://reddit.com/r/DMMDAO",
-            "handle": "DMMDAO"
+            "name": "reddit",
+            "url": "https://reddit.com/r/DMMDAO"
         },
         {
-            "name": "Medium",
-            "url": "https://medium.com/dmm-dao",
-            "handle": "dmm-dao"
+            "name": "medium",
+            "url": "https://medium.com/dmm-dao"
         }
     ]
 }

@@ -1,23 +1,29 @@
 {
     "name": "Cannon Finance",
     "website": "https://cannon.finance/",
-    "source_code": "https://github.com/cannonfinance",
-    "short_description": "Cannon Finance",
     "description": "Cannon is a decentralized protocol that enables cross-chain digital asset inteoperability such as with Bitcoin to Ethereum",
-    "socials": [
+    "explorer": "https://bscscan.com/token/0x20bff4bbEDa07536FF00e073bd8359E5D80D733d",
+    "type": "BEP20",
+    "symbol": "CAN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x20bff4bbEDa07536FF00e073bd8359E5D80D733d",
+    "links": [
         {
-            "name": "Twitter",
-            "url": "https://twitter.com/Cannon"
+            "name": "github",
+            "url": "https://github.com/cannonfinance"
         },
         {
-            "name": "Medium",
-            "url": "https://medium.com/CannonFinance/"
+            "name": "x",
+            "url": "https://x.com/Cannon"
         },
         {
-            "name": "Telegram",
+            "name": "telegram",
             "url": "https://t.me/CannonFinance"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/CannonFinance/"
         }
-    ],
-    "explorer": "https://etherscan.io/token/0x20bff4bbEDa07536FF00e073bd8359E5D80D733d",
-    "explorer1": "https://bscscan.com/token/0x20bff4bbEDa07536FF00e073bd8359E5D80D733d"
+    ]
 }

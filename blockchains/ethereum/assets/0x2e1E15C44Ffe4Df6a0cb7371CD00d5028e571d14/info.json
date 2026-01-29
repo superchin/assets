@@ -1,45 +1,37 @@
 {
     "name": "Mettalex",
     "website": "https://mettalex.com/",
-    "source_code": "https://github.com/fetchai/mettalex-market-maker",
-    "short_description": "Bringing the $20T commodities market to DeFi.",
     "description": "Mettalex is a capital-efficient commodity derivatives DEX featuring unique market pairs, autonomous market making, banded trading, one-sided liquidity provision, and MTLX-based governance.",
-    "socials": [
+    "explorer": "https://etherscan.io/token/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+    "type": "ERC20",
+    "symbol": "MTLX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+    "links": [
         {
-            "name": "Twitter",
-            "url": "https://twitter.com/Mettalex",
-            "handle": "Mettalex"
+            "name": "github",
+            "url": "https://github.com/fetchai/mettalex-market-maker"
         },
         {
-            "name": "Medium",
-            "url": "https://medium.com/mettalex",
-            "handle": "Mettalex"
+            "name": "x",
+            "url": "https://x.com/Mettalex"
         },
         {
-            "name": "Telegram",
-            "url": "https://t.me/mettalex_official",
-            "handle": "Mettalex Official"
+            "name": "telegram",
+            "url": "https://t.me/mettalex_official_news"
         },
         {
-            "name": "Telegram",
-            "url": "https://t.me/mettalex_official_news",
-            "handle": "Mettalex News"
+            "name": "discord",
+            "url": "https://discord.com/invite/zvWqGEaykD"
         },
         {
-            "name": "Discord",
-            "url": "https://discord.gg/zvWqGEaykD",
-            "handle": "Mettalex"
+            "name": "youtube",
+            "url": "https://youtube.com/channel/UCrEQK_X2Vm1kCtftlRoodXA"
         },
         {
-            "name": "YouTube",
-            "url": "https://www.youtube.com/channel/UCrEQK_X2Vm1kCtftlRoodXA",
-            "handle": "Mettalex"
-        },
-        {
-            "name": "LinkedIn",
-            "url": "https://www.linkedin.com/company/mettalex/",
-            "handle": "Mettalex"
+            "name": "medium",
+            "url": "https://medium.com/mettalex"
         }
-    ],
-    "explorer": "https://etherscan.io/token/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14"
+    ]
 }
